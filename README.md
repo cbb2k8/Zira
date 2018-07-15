@@ -9,7 +9,7 @@
 1. Clone this repo
 
     ```
-    git clone https://github.com/ZiraDiscord/Zira.git
+    git clone https://github.com/cbb2k8/Zira.git
     ```
 2. Run `npm i -g pm2` to install [PM2](http://pm2.keymetrics.io/)
 
